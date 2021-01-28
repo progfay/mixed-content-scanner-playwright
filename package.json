@@ -1,7 +1,7 @@
 {
-  "name": "playwright-example",
+  "name": "mixed-content-scanner-playwright",
   "version": "1.0.0",
-  "description": "Use playwright with Docker",
+  "description": "Scan Mixed Content with playwright",
   "main": "src/index.js",
   "scripts": {
     "build": "tsc -p ./tsconfig.json",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/progfay/playwright-example"
+    "url": "https://github.com/progfay/mixed-content-scanner-playwright"
   },
   "keywords": [],
   "author": "",
